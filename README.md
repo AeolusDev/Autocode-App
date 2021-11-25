@@ -11,4 +11,6 @@ NO DATA WILL BE STOLEN. INCASE YOU SUSPECT THAT YOU'RE DATA HAS BEEN STOLEN UNIN
 
 
 After starting up the app it _will_ show a page showing error. Press the Autocode Logo on the top left to enter the home page and then you're all ready to log into your account!
+
+
 DO NOT VISIT THE SOCIAL MEDIA SITES ON THE APP AS THEN YOU'LL NEED TO RESTART THE APP TO GO TO YOUR HOMEPAGE. I'LL TRY AND FIX THIS ISSUE LATER IN TIME
